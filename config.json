@@ -1,9 +1,9 @@
 {
-  "port": "8000", // server port
-  "name": "Milo Bot", // bot name
-  "description": "VietNamese Discord Bot Multipurpose // Việt Nam Discord Bot Đa Năng", // short bot description
-  "invite": "https://discord.com/oauth2/authorize?client_id=1239105383801290834", // bot invite link
-  "support": "https://discord.gg/Fm7y9W82AM", // bot support server
+  "port": "8000",
+  "name": "Milo Bot",
+  "description": "VietNamese Discord Bot Multipurpose | Việt Nam Discord Bot Đa Năng",
+  "invite": "https://discord.com/oauth2/authorize?client_id=1239105383801290834",
+  "support": "https://discord.gg/Fm7y9W82AM",
   "pfp": "https://images-ext-1.discordapp.net/external/m3GivCSrJ3-hbX70o6XrZBgO_L26Cv4xX6ZcDjF_5NY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1239105383801290834/a_9095d720d209dde7fa5dd1b4d7ebbfa1.gif", // bot profile link
   "feature1": "Music: Current Features NOT AVAILABLE",
   "feature2": "Kiểm duyệt, Nó có nhiều lệnh kiểm duyệt với các tính năng bất hòa mới nhất như thời gian chờ.",
