@@ -1,7 +1,7 @@
 {
   "port": "8000",
-  "name": "Music Normal Community",
-  "description": "Bot Discord Music Đa Năng",
+  "name": "Milo Bot",
+  "description": "Bot Discord Đa Năng",
   "invite": "https://media.discordapp.net/attachments/1221822264656531542/1252097909860728934/t-t-16131-music-title-display-lettering-_ver_1.jpg?ex=6670fa8c&is=666fa90c&hm=d56437fe59fa28026957622e3fcfae473acf4a3dfe58b1f691e9f9cc497b4ac2&",
   "feature1": "Âm nhạc, Nó có thể phát các loại nhạc khác nhau từ các nền tảng khác nhau như Spotify, v.v. ",
   "feature2": "Kiểm duyệt, Nó có nhiều lệnh kiểm duyệt với các tính năng bất hòa mới nhất như thời gian chờ. ",
